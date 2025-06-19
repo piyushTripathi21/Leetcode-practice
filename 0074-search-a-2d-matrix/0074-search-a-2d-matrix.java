@@ -5,7 +5,7 @@ class Solution {
 
         while(row < matrix.length && col >= 0) {
             if(matrix[row][col] == target){
-                System.out.println("found target at("+ row + "," + col + ")");
+               
                 return true;
             }
             else if (target < matrix[row][col]){
@@ -16,7 +16,7 @@ class Solution {
             }
         }
 
-         System.out.println("target not found!");
+        
          return false;   
     }
 }
