@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/piyush212101/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/piyush212101/Leetcode-practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
