@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/piyush212101/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
