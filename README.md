@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyush212101/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/piyush212101/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
