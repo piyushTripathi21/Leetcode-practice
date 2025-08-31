@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyush212101/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
