@@ -1,13 +1,18 @@
+import java.util.Stack;
+
 class Solution {
     public void reverseString(char[] s) {
-    int left = 0;
-    int right = s.length - 1;
-    while (left < right) {
-        char temp = s[left];
-        s[left] = s[right];
-        s[right] = temp;
-        left++;
-        right--;
+        Stack<Character> S = new Stack<>();   
+        int idx = 0;
+
+        while(idx < s.length){                
+            S.push(s[idx]);                  
+            idx++;
+        }
+        idx = 0;
+        while(!S.isEmpty()){
+            s[idx] = S.pop();                 
+            idx++;
+        }
     }
-}
 }
