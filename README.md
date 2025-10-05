@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Sorting
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
