@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/piyush212101/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush212101/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/piyush212101/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyush212101/Leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyush212101/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/piyush212101/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/piyush212101/Leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/piyush212101/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/piyush212101/Leetcode-practice/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/piyush212101/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
