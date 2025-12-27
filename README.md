@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/piyush212101/Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyush212101/Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/piyush212101/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/piyush212101/Leetcode-practice/tree/master/0383-ransom-note) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
