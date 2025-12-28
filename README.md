@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/piyush212101/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/piyush212101/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/piyush212101/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/piyush212101/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/piyush212101/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush212101/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyush212101/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/piyush212101/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 ## Linked List
