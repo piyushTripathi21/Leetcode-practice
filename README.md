@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/piyush212101/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0414-third-maximum-number) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/piyush212101/Leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/piyush212101/Leetcode-practice/tree/master/0257-binary-tree-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
