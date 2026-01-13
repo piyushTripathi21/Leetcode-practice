@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/piyush212101/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyush212101/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/piyush212101/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/piyush212101/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/piyush212101/Leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/piyush212101/Leetcode-practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/piyush212101/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush212101/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0189-rotate-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/piyush212101/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
