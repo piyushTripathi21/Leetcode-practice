@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/piyush212101/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/piyush212101/Leetcode-practice/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/piyush212101/Leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/piyush212101/Leetcode-practice/tree/master/0401-binary-watch) |
 ## Prefix Sum
 |  |
 | ------- |
