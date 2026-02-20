@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/piyush212101/Leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/piyush212101/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/piyush212101/Leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0761-special-binary-string) |
 ## Trie
 |  |
 | ------- |
