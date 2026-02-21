@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/piyush212101/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/piyush212101/Leetcode-practice/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/piyush212101/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Linked List
 |  |
 | ------- |
