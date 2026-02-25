@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/piyush212101/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/piyush212101/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
