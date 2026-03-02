@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyush212101/Leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0011-container-with-most-water) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
