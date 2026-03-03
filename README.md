@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/piyush212101/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/piyush212101/Leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## String
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/piyush212101/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/piyush212101/Leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Trie
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
