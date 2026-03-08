@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/piyush212101/Leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/piyush212101/Leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/piyush212101/Leetcode-practice/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
