@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -444,4 +445,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
