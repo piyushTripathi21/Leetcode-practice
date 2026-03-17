@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/piyush212101/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/piyush212101/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/piyush212101/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Simulation
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/piyush212101/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/piyush212101/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/piyush212101/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/piyush212101/Leetcode-practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
