@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/piyush212101/Leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/piyush212101/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1677-matrix-diagonal-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/piyush212101/Leetcode-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/piyush212101/Leetcode-practice/tree/master/0874-walking-robot-simulation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/piyush212101/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/piyush212101/Leetcode-practice/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/piyush212101/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/piyush212101/Leetcode-practice/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/2906-construct-product-matrix) |
