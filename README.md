@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/piyush212101/Leetcode-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
+| [1441-build-an-array-with-stack-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/piyush212101/Leetcode-practice/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/piyush212101/Leetcode-practice/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/piyush212101/Leetcode-practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
