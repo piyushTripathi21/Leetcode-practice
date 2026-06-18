@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/piyush212101/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/piyush212101/Leetcode-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
