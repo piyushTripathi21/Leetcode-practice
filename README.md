@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/piyush212101/Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/piyush212101/Leetcode-practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/piyush212101/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyush212101/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/piyush212101/Leetcode-practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyush212101/Leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/piyush212101/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/piyush212101/Leetcode-practice/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/piyush212101/Leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/piyush212101/Leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
