@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/piyush212101/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/piyush212101/Leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/piyush212101/Leetcode-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/piyush212101/Leetcode-practice/tree/master/1861-rotating-the-box) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/piyush212101/Leetcode-practice/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/piyush212101/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/piyush212101/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/piyush212101/Leetcode-practice/tree/master/0657-robot-return-to-origin) |
