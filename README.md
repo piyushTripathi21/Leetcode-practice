@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/piyush212101/Leetcode-practice/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/piyush212101/Leetcode-practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/piyush212101/Leetcode-practice/tree/master/0696-count-binary-substrings) |
