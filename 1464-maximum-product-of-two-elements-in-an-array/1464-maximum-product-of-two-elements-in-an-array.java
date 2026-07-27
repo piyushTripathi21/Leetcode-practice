@@ -1,12 +1,20 @@
-import java.util.Arrays;
-
 class Solution {
     public int maxProduct(int[] nums) {
 
-        Arrays.sort(nums);
+        int first = Integer.MIN_VALUE;
+        int second = Integer.MIN_VALUE;
 
-        int n = nums.length;
+        for (int num : nums) {
 
-        return (nums[n - 1] - 1) * (nums[n - 2] - 1);
+            if (num >= first) {
+                second = first;
+                first = num;
+            }
+            else if (num > second) {
+                second = num;
+            }
+        }
+
+        return (first - 1) * (second - 1);
     }
 }
