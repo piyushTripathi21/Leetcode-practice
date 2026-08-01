@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/piyush212101/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/piyush212101/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/piyush212101/Leetcode-practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/piyush212101/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/piyush212101/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/piyush212101/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/piyush212101/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
@@ -789,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/piyush212101/Leetcode-practice/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
