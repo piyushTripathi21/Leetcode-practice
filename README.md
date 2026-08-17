@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/piyush212101/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/piyush212101/Leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/piyush212101/Leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/piyush212101/Leetcode-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1340-jump-game-v) |
+| [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/piyush212101/Leetcode-practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/piyush212101/Leetcode-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2029-stone-game-ix](https://github.com/piyush212101/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/piyush212101/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/piyush212101/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
