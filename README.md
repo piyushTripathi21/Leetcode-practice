@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/piyush212101/Leetcode-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/piyush212101/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush212101/Leetcode-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/piyush212101/Leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/piyush212101/Leetcode-practice/tree/master/3161-block-placement-queries) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/piyush212101/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/piyush212101/Leetcode-practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
