@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/piyush212101/Leetcode-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3903-smallest-stable-index-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
