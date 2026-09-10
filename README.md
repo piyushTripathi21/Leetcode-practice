@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyush212101/Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush212101/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/piyush212101/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush212101/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/piyush212101/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/piyush212101/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/piyush212101/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/piyush212101/Leetcode-practice/tree/master/0169-majority-element) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/piyush212101/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
