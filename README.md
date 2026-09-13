@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/piyush212101/Leetcode-practice/tree/master/0645-set-mismatch) |
+| [0835-image-overlap](https://github.com/piyush212101/Leetcode-practice/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/piyush212101/Leetcode-practice/tree/master/0874-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/piyush212101/Leetcode-practice/tree/master/0948-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/piyush212101/Leetcode-practice/tree/master/1306-jump-game-iii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/piyush212101/Leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/piyush212101/Leetcode-practice/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1559-detect-cycles-in-2d-grid) |
