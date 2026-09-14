@@ -1,43 +1,45 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
+
         List<Integer> result = new ArrayList<>();
 
-        int startRow = 0;
-        int startCol = 0;
-        int endRow = matrix.length - 1;
-        int endCol = matrix[0].length - 1;
 
-        while (startRow <= endRow && startCol <= endCol) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int top = 0;
+        int bottom = m-1;
+        int left = 0;
+        int right = n-1;
+        int dir = 0;
 
-            
-            for (int j = startCol; j <= endCol; j++) {
-                result.add(matrix[startRow][j]);
-            }
-
-            
-            for (int i = startRow + 1; i <= endRow; i++) {
-                result.add(matrix[i][endCol]);
-            }
-
-            if (startRow < endRow) {
-                for (int j = endCol - 1; j >= startCol; j--) {
-                    result.add(matrix[endRow][j]);
+        while(top <=  bottom && left <= right){
+            if(dir == 0){
+                for(int i = left; i <= right ; i++){
+                    result.add(matrix[top][i]);
                 }
+                top++;
             }
-
-           
-            if (startCol < endCol) {
-                for (int i = endRow - 1; i > startRow; i--) {
-                    result.add(matrix[i][startCol]);
+            if(dir == 1){
+                for(int i = top; i <= bottom; i++){
+                    result.add(matrix[i][right]);
                 }
+                right--;
             }
 
-            startRow++;
-            endRow--;
-            startCol++;
-            endCol--;
+            if(dir == 2){
+                for(int i = right; i >= left; i--){
+                    result.add(matrix[bottom][i]);
+                }
+                bottom--;
+            }
+            if(dir == 3){
+                for(int i = bottom; i >= top; i--){
+                    result.add(matrix[i][left]);
+                }
+                left++;
+            }
+            dir = (dir + 1) % 4;
         }
-
         return result;
     }
 }
