@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1340-jump-game-v) |
 | [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/piyush212101/Leetcode-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyush212101/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/piyush212101/Leetcode-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/piyush212101/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/piyush212101/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/piyush212101/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/piyush212101/Leetcode-practice/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyush212101/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1872-stone-game-viii](https://github.com/piyush212101/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyush212101/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyush212101/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/piyush212101/Leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/piyush212101/Leetcode-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/piyush212101/Leetcode-practice/tree/master/1872-stone-game-viii) |
@@ -922,5 +925,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyush212101/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush212101/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
