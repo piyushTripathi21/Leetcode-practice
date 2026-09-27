@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/piyush212101/Leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/piyush212101/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/piyush212101/Leetcode-practice/tree/master/0937-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush212101/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/piyush212101/Leetcode-practice/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/piyush212101/Leetcode-practice/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush212101/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/piyush212101/Leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/piyush212101/Leetcode-practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush212101/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -956,4 +958,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyush212101/Leetcode-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush212101/Leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush212101/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
