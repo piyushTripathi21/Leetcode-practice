@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/piyush212101/Leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/piyush212101/Leetcode-practice/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/piyush212101/Leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyush212101/Leetcode-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/piyush212101/Leetcode-practice/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/piyush212101/Leetcode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush212101/Leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/piyush212101/Leetcode-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3660-jump-game-ix](https://github.com/piyush212101/Leetcode-practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/piyush212101/Leetcode-practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/piyush212101/Leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyush212101/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/piyush212101/Leetcode-practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyush212101/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -792,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/piyush212101/Leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/piyush212101/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyush212101/Leetcode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
