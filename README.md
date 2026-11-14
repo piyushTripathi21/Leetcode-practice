@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/piyush212101/Leetcode-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/piyush212101/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/piyush212101/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush212101/Leetcode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/piyush212101/Leetcode-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/piyush212101/Leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2747-count-zero-request-servers](https://github.com/piyush212101/Leetcode-practice/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyush212101/Leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/piyush212101/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/piyush212101/Leetcode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/piyush212101/Leetcode-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/piyush212101/Leetcode-practice/tree/master/3225-maximum-score-from-grid-operations) |
+| [3364-minimum-positive-sum-subarray](https://github.com/piyush212101/Leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/piyush212101/Leetcode-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3903-smallest-stable-index-i](https://github.com/piyush212101/Leetcode-practice/tree/master/3903-smallest-stable-index-i) |
