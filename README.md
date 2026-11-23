@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/piyush212101/Leetcode-practice/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/piyush212101/Leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/piyush212101/Leetcode-practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/piyush212101/Leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/piyush212101/Leetcode-practice/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/piyush212101/Leetcode-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyush212101/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
